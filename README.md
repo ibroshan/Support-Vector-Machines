@@ -12,7 +12,7 @@ One-class classification algorithms can be used for binary classification tasks 
 
 We use one-class SVM to identify anomalies in the dataset.
 
-####Credits
+### Credits
 
 https://machinelearningmastery.com/one-class-classification-algorithms/
 
